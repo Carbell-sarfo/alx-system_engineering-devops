@@ -1,2 +1,3 @@
 #!/bin/bash
 ls -agl
+ls -lan
